@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Previously Trainee in the Information Processing and Analytics at the European Medicines Agency in Amsterdam, currently Bioinformatician at the Children's Hospital Bambino Gesù in Rome. Eager to apply AI and data science to improve people's health.
+Previously Trainee in the Information Processing and Analytics unit at the European Medicines Agency in Amsterdam, currently Bioinformatician at the Children's Hospital Bambino Gesù in Rome. Eager to apply AI and data science to improve people's health.
